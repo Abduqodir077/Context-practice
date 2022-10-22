@@ -1,3 +1,5 @@
+import Section_1 from "./Section_1";
+
 function Navbar() {
   return (
     <>
@@ -14,6 +16,7 @@ function Navbar() {
             <a href="#">Registr</a>
         </div>
       </nav>
+      <Section_1/>
     </>
   );
 }
