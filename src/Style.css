@@ -11,6 +11,10 @@ body{
     justify-content: center;
 }
 
+button{
+    cursor: pointer;
+}
+
 #root{
     max-width: 1440px;
     width: 100%;
