@@ -39,6 +39,14 @@ function Context({ children }) {
       price: "448$",
       count: 0,
     },
+    {
+      id: 5,
+      img: "https://cdn-images.farfetch-contents.com/16/55/95/43/16559543_32353004_1000.jpg",
+      par: "Philipp Plein",
+      span: "logo-patch zip-up backpack",
+      price: "448$",
+      count: 0,
+    },
   ]);
 
   function plus(prop){

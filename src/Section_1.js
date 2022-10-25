@@ -17,7 +17,6 @@ function Section_1() {
               <p>{item.par}</p>
               <span>{item.span}</span>
               <b>{item.price}</b>
-              <p href="#">{item.id}</p>
               <div className="count">
                 <button onClick={() => minus(item)}>-</button>
                 <b>{item.count}</b>
